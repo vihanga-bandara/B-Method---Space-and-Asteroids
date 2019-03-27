@@ -1,3 +1,3 @@
 # B-Method---Space-and-Asteroids #
-Final year reasoning for programming coursework
+A Space and Asteroid game that has been implemented using B Method
 # ################
